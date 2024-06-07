@@ -14,7 +14,7 @@ Esto puede aplicarse en diferentes contextos como la manufactura, la medicina, l
             
             Brazo Robótico "Friendly" controlado por Aplicación Bluetooth
 Como usuario preocupado por el medio ambiente,
-Quiero un brazo robótico que recoja basura controlado por una aplicación Bluetooth hecha en AppInventor, para poder limpiar áreas específicas de mi entorno de manera eficiente y contribuir a un entorno más limpio.
+Queremos un brazo robótico que recoja basura controlado por una aplicación Bluetooth realizada en AppInventor, para poder limpiar áreas específicas de mi entorno de manera eficiente y contribuir a un entorno más limpio.
 
 Descripción
 Friendly es un innovador brazo robótico diseñado para recoger basura en parques, playas y otras áreas públicas. Este brazo es controlado mediante una aplicación desarrollada en AppInventor, que se comunica con Friendly a través de Bluetooth. La aplicación permite a los usuarios mover el brazo robótico, abrir y cerrar la pinza para recoger basura, y programar rutas de limpieza automática.
@@ -22,13 +22,13 @@ Friendly es un innovador brazo robótico diseñado para recoger basura en parque
 Requerimientos Funcionales y no funcionales:
 - POO: Todo con lo que respecta a la parte software del programacion e interfaz robot debe ser correctmente reprentadas mediante clases, atributos y métodos, de manera correcta y lógica.
 
-- DISEÑO CIRCUITOS: Diseñar un circuito de comunicacion remota entre un dispositivo y el brazo robotico, adicionalmente lograr optimizar el consumo de energia y garantizando una adecuada comunicaión entre el dispositivo y el robot. 
+- DISEÑO CIRCUITOS: Diseñar un circuito de comunicacion remota entre un dispositivo y el brazo robotico, adicionalmente lograr optimizar el consumo de energia,  garantizando una adecuada comunicaión entre el dispositivo y el robot. 
 
 - ANALISIS MATEMÁTICO: Utilizar ecuaciones matematicas que ayuden a modelar la posición del robot, estabkecer movimientos precisos y fluidos.
 
-- EMPRENDIMIENTO E INNOVACIÓN TECNOLÓGICA: Obtener varios puntos de vista en lo que respeca a la adaptibilidad del robot en diferentes ambitps y entornos, para su utilizacion en distintas areas ya sea en el ambito industrial o científica.
+- EMPRENDIMIENTO E INNOVACIÓN TECNOLÓGICA: Obtener varios puntos de vista en lo que respecta a la adaptibilidad del robot en diferentes ambitos y entornos, para su utilizacion en distintas areas ya sea en el ámbito industrial o científico.
 
-- TEORÍA DE LA DISTRIBUCION Y PROBABILIDAD: mediante técnicas de optimización basadas en la probabilidad buscamos mejorar la eficiencia del robot, pronosticando fallos que udieran ocurrir en el robot.
+- TEORÍA DE LA DISTRIBUCION Y PROBABILIDAD: mediante técnicas de optimización basadas en la probabilidad buscamos mejorar la eficiencia del robot, pronosticando fallos que pudieran ocurrir en el robot.
 
 
 Capturas de pantalla (Página Web Responsiva)
