@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>Grupo 7</title>
+  <link rel="icon" href="images/manito.jpeg" type="image/png">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+  <link rel="stylesheet" href="css/bootstrap.css" />
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700&display=swap" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet" />
+  <link href="css/responsive.css" rel="stylesheet" />
+  
+  <style>
+    .camera-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      max-width: 100%;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    #video {
+      width: 100%;
+      max-width: 600px;
+      height: auto;
+      transform: scaleX(-1); /* Efecto espejo */
+      -webkit-transform: scaleX(-1); /* Safari */
+    }
+
+    #capture {
+      margin-top: 20px; /* Ajusta según sea necesario */
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s ease;
+    }
+
+    #capture:hover {
+      background-color: #0056b3;
+    }
+
+    .snapshot {
+      margin-top: 20px;
+      width: 100%;
+      max-width: 600px;
+      text-align: center;
+    }
+
+    .snapshot img {
+      width: 100%;
+      height: auto;
+      transform: scaleX(-1); /* Efecto espejo */
+    }
+
+    @media (max-width: 768px) {
+      #capture {
+        width: 100%;
+        padding: 10px 0;
+      }
+    }
+
+    @media (max-width: 480px) {
+      #capture {
+        font-size: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="hero_area">
+    <!-- Header Section -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container">
+          <a class="navbar-brand" href="index.html">
+            <span>Robot Friendly</span>
+          </a>
+          <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html">Información</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="service.html">Características</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">Contáctanos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="login.html">Componentes</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="Camara.html">Cámara</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
+            <button class="btn my-2 my-sm-0 nav_search-btn" type="submit"></button>
+          </form>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header Section -->
+
+    <!-- Camera Section -->
+    <section class="camera_section layout_padding">
+      <div class="container">
+        <div class="custom_heading-container">
+          <h1>Captura de Cámara</h1>
+        </div>
+        <div class="camera-container">
+          <video id="video" autoplay></video>
+          <button id="capture">Capturar</button>
+          <canvas id="canvas" style="display:none;"></canvas>
+          <div id="snapshot" class="snapshot"></div>
+        </div>
+      </div>
+    </section>
+    <!-- End Camera Section -->
+
+    <!-- Contact Information -->
+    <section class="info_section layout_padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-sm-6 mb-4">
+            <div class="info-logo">
+              <h2>Robot Friendly</h2>
+              <p>
+                Es un pequeño robot que te ayudará en la recolección de basura en tu hogar, así como una manera de
+                entretenimiento y aprendizaje para los niños sobre el mundo de la programación.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 mb-4">
+            <div class="info-nav">
+              <h4>Índice</h4>
+              <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Información</a></li>
+                <li><a href="service.html">Características</a></li>
+                <li><a href="contact.html">Contáctanos</a></li>
+                <li><a href="login.html">Componentes</a></li>
+                <li><a href="Camara.html">Cámara</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 mb-4">
+            <div class="info-contact">
+              <h4>Información de Contacto</h4>
+              <div class="location">
+                <a href="">
+                  <img src="images/location.png" alt="">
+                  <span>Universidad Nacional de Loja</span>
+                </a>
+              </div>
+              <div class="call">
+                <h6>Interesado en adquirir el robot:</h6>
+                <a href="">
+                  <img src="images/telephone.png" alt="">
+                  <span>( +593 989350952 )</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Contact Information -->
+
+    <!-- Footer -->
+    <section class="container-fluid footer_section text-center py-4">
+      <p>
+        Copyright &copy; 2024 Todos los Derechos Reservados Con la ayuda de:
+        <a href="https://plantillashtmlgratis.com/">Plantillas Html Gratis</a>
+      </p>
+    </section>
+    <!-- End Footer -->
+
+    <!-- Scripts -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+    <script>
+      // Acceder a la cámara
+      const video = document.querySelector("#video");
+      const canvas = document.querySelector("#canvas");
+      const snapshot = document.querySelector("#snapshot");
+      const captureButton = document.querySelector("#capture");
+
+      // Solicitar acceso a la cámara
+      navigator.mediaDevices.getUserMedia({ video: true })
+        .then(stream => {
+          video.srcObject = stream;
+        })
+        .catch(err => {
+          console.error("Error al acceder a la cámara: " + err);
+        });
+
+      // Capturar la imagen
+      captureButton.addEventListener("click", () => {
+        const context = canvas.getContext("2d");
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+        context.translate(canvas.width, 0);
+        context.scale(-1, 1); // Voltear horizontalmente
+        context.drawImage(video, 0, 0, canvas.width, canvas.height);
+        const imageData = canvas.toDataURL("image/png");
+
+        // Mostrar la imagen capturada
+        const img = document.createElement("img");
+        img.src = imageData;
+        snapshot.innerHTML = ''; // Limpiar la imagen previa
+        snapshot.appendChild(img);
+        snapshot.style.display = 'block';
+      });
+    </script>
+  </div>
+</body>
+</html>
