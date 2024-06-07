@@ -29,3 +29,16 @@ Requerimientos Funcionales y no funcionales:
 - EMPRENDIMIENTO E INNOVACIÓN TECNOLÓGICA: Obtener varios puntos de vista en lo que respeca a la adaptibilidad del robot en diferentes ambitps y entornos, para su utilizacion en distintas areas ya sea en el ambito industrial o científica.
 
 - TEORÍA DE LA DISTRIBUCION Y PROBABILIDAD: mediante técnicas de optimización basadas en la probabilidad buscamos mejorar la eficiencia del robot, pronosticando fallos que udieran ocurrir en el robot.
+
+
+Capturas de pantalla (Página Web Responsiva)
+![Inicio](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/1a0bc98f-37f4-4886-8736-491f0df33e84)
+![Información](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/89ed77cf-d580-4160-a6cb-ab8c134d15d6)
+![Características](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/7384e647-53fd-47b7-81b6-87c035a5bc1b)
+![Contactanos](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/d54bbe20-fbf2-4085-ab8f-b41d44598995)
+![Componentes](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/4891f40e-8bf2-4fe6-b1aa-0ededaddd904)
+![Cámara](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/8685612d-e721-4154-91ee-dc1524f513c0)
+
+
+Video demostrativo (Página Web Responsiva)
+https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/d043f8a2-3287-4f2a-bac1-4236887f7abc
