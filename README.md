@@ -1,7 +1,29 @@
-# IsaKaiser04.github.io
-Segundo avance proyecto PIS,Brazo Robotico Grupo 7
-DESARROLLO DE CLASES BÁSICAS
+# PIS: "Control Remoto de un Brazo Robótico a través de Software (TeleRobot)"
+GRUPO 7
+
+# DIAGRAMA DE CLASES
+
+![image](https://github.com/user-attachments/assets/b1c7310a-61de-4ce8-97ab-0084bff5c055)
+
+![image](https://github.com/user-attachments/assets/051ab4ad-ffed-40c1-8765-c6b5b42b1722)
+
 ![image](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166523218/79ee2834-2083-40e5-9cc6-b6ec7d37666c)
+
+# Objetivo General:
+* Crear un brazo robótico que sea capaz de recolectar basura y pueda ser
+controlado desde a distancia, esto mediante una aplicación. Mejorando la
+eficiencia en la limpieza de la Facultad.
+# Objetivos Específicos:
+● Diseñar una aplicación que sea fácil de poder manejar, permitiendo el control remoto
+del brazo robótico para recoger y depositar la basura en diferentes ubicaciones .
+● Integrar una ESP32-CAM en el brazo robótico para transmitir en la página web, en
+donde se tendrá una imagen en tiempo real de lo que se vea en el área en donde se
+ubique.
+● Se añadirá un sensor de peso al brazo robótico, con la que los valores que este pesando
+se registren en la misma página web, y con el registro de datos se creará gráficas
+estadísticas sobre la cantidad de basura que este recolectado.
+* Probar el sistema de control remoto, verificando que funcione correctamente para
+asegurar que sea confiable en sus tareas a distancia.
 
 INVESTIGACION Y DOCUMENTACIÓN
 Investigación detallada sobre casos de uso y creación de historias de usuario específicas para la gestión de un brazo robótico.
@@ -43,4 +65,13 @@ Capturas de pantalla (Página Web Responsiva)
 Video demostrativo (Página Web Responsiva)
 https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/d043f8a2-3287-4f2a-bac1-4236887f7abc
 
-Link Página Web: https://isakaiser04.github.io/
+# Link Página Web
+http://robotfriendly.kesug.com/?i=1
+# Integrantes
+* Dilan Jahir Chamba Cuenca
+* Jhonathan Alexander Ludeña Cevallos
+* Jossibel Anahi Perez Espinoza
+* Isauro Michael Rivera Maldonado
+* María Elizabeth Chuico Medina
+
+
