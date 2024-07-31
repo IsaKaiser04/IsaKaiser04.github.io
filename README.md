@@ -67,6 +67,8 @@ https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/d043f8a2-3
 
 # Link Página Web
 http://robotfriendly.kesug.com/?i=1
+# Manual del manejo del brazo robotico
+[Manual del manejo del brazo robotico.pdf](https://github.com/user-attachments/files/16447430/Manual.del.manejo.del.brazo.robotico.pdf)
 # Integrantes
 * Dilan Jahir Chamba Cuenca
 * Jhonathan Alexander Ludeña Cevallos
