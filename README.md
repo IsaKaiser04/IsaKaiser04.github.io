@@ -14,12 +14,12 @@ GRUPO 7
 controlado desde a distancia, esto mediante una aplicación. Mejorando la
 eficiencia en la limpieza de la Facultad.
 # Objetivos Específicos:
-● Diseñar una aplicación que sea fácil de poder manejar, permitiendo el control remoto
-del brazo robótico para recoger y depositar la basura en diferentes ubicaciones .
-● Integrar una ESP32-CAM en el brazo robótico para transmitir en la página web, en
+* Diseñar una aplicación que sea fácil de poder manejar, permitiendo el control remoto
+del brazo robótico para recoger y depositar la basura en diferentes ubicaciones.
+* Integrar una ESP32-CAM en el brazo robótico para transmitir en la página web, en
 donde se tendrá una imagen en tiempo real de lo que se vea en el área en donde se
 ubique.
-● Se añadirá un sensor de peso al brazo robótico, con la que los valores que este pesando
+* Se añadirá un sensor de peso al brazo robótico, con la que los valores que este pesando
 se registren en la misma página web, y con el registro de datos se creará gráficas
 estadísticas sobre la cantidad de basura que este recolectado.
 * Probar el sistema de control remoto, verificando que funcione correctamente para
