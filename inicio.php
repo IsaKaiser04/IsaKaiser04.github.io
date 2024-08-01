@@ -208,7 +208,7 @@ if (!isset($_SESSION['usuario'])) {
     <div class="layout_padding2-top">
       <p>
         Este proyecto tiene como objetivo desarrollar e implementar un brazo robótico recolector
-        de basura controlado a distancia mediante una aplicación Bluetooth. El sistema incluye
+        de basura controlado a distancia mediante una aplicación Wifi. El sistema incluye
         una cámara para transmisión en vivo y una balanza cuyos datos se muestran en una
         página web, permitiendo la generación de estadísticas sobre los residuos recolectados. La
         implementación de este sistema busca mejorar la eficiencia en la recolección de basura,
@@ -224,7 +224,7 @@ if (!isset($_SESSION['usuario'])) {
     </div>
     <p class="layout_padding2-top">
       El proyecto consiste en la creación de un brazo robótico que pueda ser controlado por una aplicación móvil, por
-      medio de conexión Wi-Fi y Bluetooth para su control.
+      medio de conexión Wi-Fi para su control.
     </p>
 
 </section>
@@ -264,7 +264,7 @@ if (!isset($_SESSION['usuario'])) {
               <li><a href="caracteristicas.html">Características</a></li>
               <li><a href="contact.html">Contáctanos</a></li>
               <li><a href="componentes.html">Componentes</a></li>
-              <li><a href="Camara.html">Aplicacion</a></li>
+              <li><a href="Camara.html">Aplicación</a></li>
               <li><a href="estadistica.html">Estadísticas</a></li>
               <li><a href="historias.html">Historias de Usuarios</a></li>
             </ul>
