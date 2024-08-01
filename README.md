@@ -3,11 +3,14 @@ GRUPO 7
 
 # DIAGRAMA DE CLASES
 
-![image](https://github.com/user-attachments/assets/b1c7310a-61de-4ce8-97ab-0084bff5c055)
+![Captura de pantalla 2024-08-01 075149](https://github.com/user-attachments/assets/3d1a96d2-28a6-4c36-bac0-627bd60bdf72)
+
 
 ![image](https://github.com/user-attachments/assets/051ab4ad-ffed-40c1-8765-c6b5b42b1722)
 
-![image](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166523218/79ee2834-2083-40e5-9cc6-b6ec7d37666c)
+
+![image](https://github.com/user-attachments/assets/325a25fc-6254-4356-843b-335a2f16b58b)
+
 
 # Objetivo General:
 * Crear un brazo robótico que sea capaz de recolectar basura y pueda ser
