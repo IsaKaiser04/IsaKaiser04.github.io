@@ -57,12 +57,11 @@ Requerimientos Funcionales y no funcionales:
 
 
 Capturas de pantalla (Página Web Responsiva)
-![Inicio](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/1a0bc98f-37f4-4886-8736-491f0df33e84)
-![Información](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/89ed77cf-d580-4160-a6cb-ab8c134d15d6)
-![Características](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/7384e647-53fd-47b7-81b6-87c035a5bc1b)
-![Contactanos](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/d54bbe20-fbf2-4085-ab8f-b41d44598995)
-![Componentes](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/4891f40e-8bf2-4fe6-b1aa-0ededaddd904)
-![Cámara](https://github.com/IsaKaiser04/IsaKaiser04.github.io/assets/166628946/8685612d-e721-4154-91ee-dc1524f513c0)
+![image](https://github.com/user-attachments/assets/85fd5dff-ae58-402e-8a4b-f8fa32ee2ba3)
+![image](https://github.com/user-attachments/assets/6bd8b2d9-a2fb-4827-a42a-4c12fa917a83)
+![image](https://github.com/user-attachments/assets/3650d374-40b0-4dbb-8e8f-4ac9b981e717)
+![image](https://github.com/user-attachments/assets/b0564486-38e2-43a5-9aa5-eda9f4339bcf)
+![image](https://github.com/user-attachments/assets/573c00da-d0aa-4cdd-b6b7-0948d6c02e1d)
 
 
 Video demostrativo (Página Web Responsiva)
