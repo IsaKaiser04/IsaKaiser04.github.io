@@ -15,7 +15,7 @@ GRUPO 7
 # Objetivo General:
 * Crear un brazo robótico que sea capaz de recolectar basura y pueda ser
 controlado desde a distancia, esto mediante una aplicación. Mejorando la
-eficiencia en la limpieza de la Facultad.
+eficiencia en la limpieza de la residuos cuyo nivel de riesgo sea leve o alto.
 # Objetivos Específicos:
 * Diseñar una aplicación que sea fácil de poder manejar, permitiendo el control remoto
 del brazo robótico para recoger y depositar la basura en diferentes ubicaciones.
@@ -37,7 +37,7 @@ Esto puede aplicarse en diferentes contextos como la manufactura, la medicina, l
 
 -Historia de Usuario: Brazo Robótico que Recoge Basura
             
-            Brazo Robótico "Friendly" controlado por Aplicación Bluetooth
+            Brazo Robótico "Friendly" controlado por Aplicación Wifi
 Como usuario preocupado por el medio ambiente,
 Queremos un brazo robótico que recoja basura controlado por una aplicación Bluetooth realizada en AppInventor, para poder limpiar áreas específicas de mi entorno de manera eficiente y contribuir a un entorno más limpio.
 
